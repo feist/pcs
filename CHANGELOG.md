@@ -5,7 +5,9 @@
 ### Added
 - Commands `pcs cluster cib-push` and `pcs cluster edit` now print more info
   when new CIB does not conform to the CIB schema [RHEL-76059]
+- Command `pcs cluster rename` for changing cluster name [RHEL-76055]
 
+[RHEL-76055]: https://issues.redhat.com/browse/RHEL-76055
 [RHEL-76059]: https://issues.redhat.com/browse/RHEL-76059
 
 
